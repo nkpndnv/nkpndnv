@@ -1,16 +1,22 @@
-## Hi there 👋
+## ✌️Hi, I'm Nk!
 
-<!--
-**nkpndnv/nkpndnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer.
 
-Here are some ideas to get you started:
+I am 20 years old and I will try to change this world!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧰 Languages and Tools:
+<p>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
+<img height="40" src="https://cdn-icons-png.flaticon.com/512/919/919832.png">
+<img height="40" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png">
+<img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+<img height="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">
+<img height="40" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png">
+<img height="40" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">
+<img height="40" src="https://cdn-icons-png.flaticon.com/512/226/226772.png">
+<img height="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
