@@ -1,1 +1,1 @@
-<img src="https://ibb.co/P6XxS1g">
+<img src="C:\Users\nkpndnv\Documents\Баннер широкий светлый.png">
